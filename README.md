@@ -28,7 +28,7 @@ These instructions will help you set up and run the project on your local machin
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/todo-list-project.git
+    git clone https://github.com/tallZacchaeus/todo-list-project.git
     ```
 
 2. **Navigate to the project directory:**
